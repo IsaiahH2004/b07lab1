@@ -1,5 +1,5 @@
 public class Polynomial{
-    double[] array;
+    public double[] array;
 
     public Polynomial(double[] arrayIn) {
         this.array = arrayIn;
